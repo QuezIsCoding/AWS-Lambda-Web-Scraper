@@ -10,3 +10,4 @@ __pycache__/
 *.pyd
 *.dist-info/
 *.zip
+bin/

@@ -1,0 +1,12 @@
+requests/
+bs4/
+urllib3/
+idna/
+certifi/
+charset_normalizer/
+soupsieve/
+typing_extensions.py
+__pycache__/
+*.pyd
+*.dist-info/
+*.zip
